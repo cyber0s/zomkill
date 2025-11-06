@@ -41,8 +41,10 @@
 - 快捷操作区：一键设置常用阳光值
 - 底部状态栏：实时显示操作状态和提示信息
 
+<img width="2616" height="1690" alt="image" src="https://github.com/user-attachments/assets/93f15ad7-5c23-468a-a913-e6b6d61270e2" />
 ![Uploading image.png…]()
-![Uploading image.png…]()
+
+
 
 
 ---
