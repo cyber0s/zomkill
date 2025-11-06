@@ -1,9 +1,13 @@
 # 🌻 使用 Rust 重写植物大战僵尸修改器 - ZomKill v2.0
 
 > **作者**: Xinux
+
 > **博客**: [www.xinux.top](https://www.xinux.top)
+
 > **QQ**: 913499532
+
 > **日期**: 2025-11-06,21:28
+
 > **技术栈**: Rust + egui + Windows API
 
 ---
@@ -37,10 +41,10 @@
 - 快捷操作区：一键设置常用阳光值
 - 底部状态栏：实时显示操作状态和提示信息
 
+![Uploading image.png…]()
+![Uploading image.png…]()
 
-![2025-11-06T13:26:48.png][1]
 
-![2025-11-06T13:27:19.png][2]
 ---
 
 ## 🎯 系统要求
