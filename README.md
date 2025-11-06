@@ -10,6 +10,8 @@
 
 > **技术栈**: Rust + egui + Windows API
 
+> **国内下载地址：（不限速）**: https://xinux.top/archives/zhiwudazhanjiangshi.html
+
 ---
 
 ## 📝 前言
